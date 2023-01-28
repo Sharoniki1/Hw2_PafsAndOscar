@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button1"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button2"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button3"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button4"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button5"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button6"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button7"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button8"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button9"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fragmentlist_BTN_button10"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="@android:color/holo_red_light"
+            android:layout_gravity="end"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</RelativeLayout>
